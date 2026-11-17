@@ -27,5 +27,5 @@ Web Developer · Project Manager · AI Enthusiast
 ---
 
 ## 📬 Связь со мной
-- **Telegram**: https://t.me/@MrNem0_o
+- **Telegram**: https://t.me/MrNem0_o
 - **Email**: aleks91bekasov@gmail.com
