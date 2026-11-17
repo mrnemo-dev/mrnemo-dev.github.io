@@ -28,7 +28,7 @@ Web Developer · Project Manager · AI Enthusiast
 
 ### 4. 🤖 SEO-анализатор Telegram-бот
 Telegram-бот для автоматического аудита сайтов с генерацией PDF-отчётов. Модульная AI-архитектура: локальная модель для приватности или любое внешнее API для продакшн-качества.
-- **Стек**: Python, python-telegram-bot, BeautifulSoup4, ReportLab, Ollama
+- **Стек**: Python, aiogram, BeautifulSoup4, ReportLab, Ollama, OpenAI API
 - **[Посмотреть код и примеры отчётов →](https://github.com/mrnemo-dev/seo-bot)**
 
 ---
