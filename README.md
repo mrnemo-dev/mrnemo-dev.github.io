@@ -26,10 +26,10 @@ Web Developer · Project Manager · AI Enthusiast
 - **🎬 [Смотреть 1-минутное видео-демо работы сайта с светлой темой →](https://www.youtube.com/watch?v=5f73_mrh7ts))**
 - ** ссылка на сайт, по запросу.
 
-### 4. 🛠️ SEO-анализатор и Telegram-боты
-Инструменты для автоматического аудита сайтов и SEO-отчетности.
-- **Стек**: Python, Telegram Bot API, SEO API
-- *(Ссылки на репозитории будут добавлены)*
+### 4. 🤖 SEO-анализатор Telegram-бот
+Telegram-бот для автоматического аудита сайтов с генерацией PDF-отчётов. Модульная AI-архитектура: локальная модель для приватности или любое внешнее API для продакшн-качества.
+- **Стек**: Python, python-telegram-bot, BeautifulSoup4, ReportLab, Ollama
+- **[Посмотреть код и примеры отчётов →](https://github.com/mrnemo-dev/seo-bot)**
 
 ---
 
