@@ -19,7 +19,12 @@ Web Developer · Project Manager · AI Enthusiast
 - **[Открыть живой сайт →](https://mrnemo-dev.github.io/gorodey-hotel/)**
 - **[Посмотреть код →](https://github.com/mrnemo-dev/gorodey-hotel)**
 
-### 3. 🛠️ SEO-анализатор и Telegram-боты
+### 3. 🚗 Премиальный лендинг автосервиса
+Кастомная тема WordPress с нуля: GSAP-анимации, параллакс, glassmorphism, инерционный скролл, форма записи с отправкой в Telegram.
+- **Стек**: WordPress, PHP, GSAP, Lenis, Telegram API
+- **🎬 [Смотреть 1-минутное видео-демо работы сайта →](https://www.youtube.com/watch?v=faP6a2GlbLw)** 
+
+### 4. 🛠️ SEO-анализатор и Telegram-боты
 Инструменты для автоматического аудита сайтов и SEO-отчетности.
 - **Стек**: Python, Telegram Bot API, SEO API
 - *(Ссылки на репозитории будут добавлены)*
