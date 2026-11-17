@@ -22,7 +22,8 @@ Web Developer · Project Manager · AI Enthusiast
 ### 3. 🚗 Премиальный лендинг автосервиса
 Кастомная тема WordPress с нуля: GSAP-анимации, параллакс, glassmorphism, инерционный скролл, форма записи с отправкой в Telegram.
 - **Стек**: WordPress, PHP, GSAP, Lenis, Telegram API
-- **🎬 [Смотреть 1-минутное видео-демо работы сайта →](https://www.youtube.com/watch?v=faP6a2GlbLw)**
+- **🎬 [Смотреть 1-минутное видео-демо работы сайта с темной темой →](https://www.youtube.com/watch?v=faP6a2GlbLw)**
+- **🎬 [Смотреть 1-минутное видео-демо работы сайта с светлой темой →](https://www.youtube.com/watch?v=5f73_mrh7ts))**
 - ** ссылка на сайт, по запросу.
 
 ### 4. 🛠️ SEO-анализатор и Telegram-боты
