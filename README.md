@@ -42,6 +42,6 @@
 ---
 
 ## 📬 Связь со мной
-- **Telegram**: [@твой_ник_в_тг](https://t.me/твой_ник_в_тг) *(замени на свой)*
-- **Email**: твой@email.com *(замени на свой)*
+- **Telegram**: [@MrNem0_o](https://t.me/MrNem0_o) 
+- **Email**: aleks91bekasov@gmail.com
 - **GitHub**: [github.com/mrnemo-dev](https://github.com/mrnemo-dev)
