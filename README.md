@@ -39,6 +39,15 @@
 - **Стек**: Python, aiogram, BeautifulSoup4, ReportLab, Ollama
 - **[Посмотреть код и примеры отчётов →](https://github.com/mrnemo-dev/seo-bot)**
 
+5. 🍝 **Italian Taste — Кастомная тема WordPress для ресторана**
+
+Полноценная тема WordPress с нуля: корзина на localStorage с AJAX-отправкой заказов в Telegram-бот, GSAP ScrollTrigger анимации, темная/светлая тема, блог с шаблонами `home.php` и `single.php`, полный адаптив с бургер-меню. Архитектура: BEM в SCSS, CSS-переменные для темизации, nonce-защита AJAX, токены бота в `wp-config.php`.
+
+- **Стек:** WordPress, PHP, SCSS (BEM), Vanilla JS (ES6+), GSAP 3 + ScrollTrigger, AJAX, Telegram API, ACF
+- **Видео-демо:** https://www.youtube.com/watch?v=hhuHC5aRh-o
+- **Посмотреть код →** https://github.com/mrnemo-dev/italian-taste-wp-theme
+- **Live-demo:** (по запросу)
+
 ---
 
 ## 📬 Связь со мной
